@@ -28,7 +28,7 @@ Skin Cancer is a common disease these days.
 ## Development Process <a name="process"></a>
 This principle component of this project is a CNN model that can predict the probability of a pole being malign. 
 
-Dataset: https://www.kaggle.com/kmader/skin-cancer-mnist-ham10000
+Dataset: https://www.kaggle.com/kmader/skin-cancer-mnist-ham10000 
 
 
 
